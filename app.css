@@ -18,7 +18,9 @@ body {
 h1 {
     font-family: courier;
     font-size: 20px
-    font-color:red;
+    color:red;
+    text-align:center;
+    float: left;
 }
 
 .container {
