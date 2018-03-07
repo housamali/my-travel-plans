@@ -15,6 +15,12 @@ body {
     height: 100%;
 }
 
+h1 {
+    font-family: courier;
+    font-size: 20px
+    font-color:red;
+}
+
 .container {
     margin: auto;
     padding: 1em;
